@@ -1,2 +1,24 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+*.shader linguist-vendored
+*.mat linguist-vendored
+*.anim linguist-vendored
+*.meta linguist-vendored
+*.asset linguist-vendored
+*.ttf linguist-vendored
+*.png linguist-vendored
+*.hlsl linguist-vendored
+*.cginc linguist-vendored
+*.jpg linguist-vendored
+*.bmp linguist-vendored
+*.prefab linguist-vendored
+*.controller linguist-vendored
+*.shadergraph linguist-vendored
+*.mtl linguist-vendored
+*.obj linguist-vendored
+*.fbx linguist-vendored
+*.unity linguist-vendored
+*.wav linguist-vendored
+*.mp3 linguist-vendored
+*.mp4 linguist-vendored
+*.terrainlayer linguist-vendored
